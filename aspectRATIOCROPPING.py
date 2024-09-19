@@ -1,3 +1,6 @@
+'''
+Un programa cambia el tamaño en las fotos
+'''
 import math
 
 

@@ -1,3 +1,6 @@
+'''
+Cuantos puntos conseguiría un jugador de NBA si jugara los 48 min.
+'''
 def nba_extrap(ppg, mpg):
     # Si los minutos jugados son 0, retornar 0
     if mpg == 0:

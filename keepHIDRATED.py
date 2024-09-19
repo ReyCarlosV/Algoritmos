@@ -1,3 +1,6 @@
+'''
+Cuantos litros de agua debe tomar un ciclista por cada hora recorrida
+'''
 import math
 
 def litres(time):

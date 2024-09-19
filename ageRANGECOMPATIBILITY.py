@@ -1,3 +1,6 @@
+'''
+Calcula el minimo y maximo de la edad compatible contigo
+'''
 import math
 
 

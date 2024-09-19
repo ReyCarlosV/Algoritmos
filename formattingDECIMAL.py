@@ -1,3 +1,6 @@
+'''
+Redondea un numero con mas de dos decimales a dos
+'''
 def format_number(num):
     return round(num, 2)
 

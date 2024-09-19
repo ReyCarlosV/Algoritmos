@@ -1,3 +1,6 @@
+'''
+Cual es el precio del mango si estuviera en una oferta de 3 por 2
+'''
 def mango(quantity, price):
     # Número de mangos por los que se paga
     paid_mangoes = (quantity // 3) * 2 + (quantity % 3)

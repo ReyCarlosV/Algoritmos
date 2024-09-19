@@ -1,3 +1,6 @@
+'''
+Convierte dolares a yuanes
+'''
 def usd_to_cny(usd):
     # Tasa de conversión
     conversion_rate = 6.75

@@ -1,3 +1,6 @@
+'''
+Calcula la presion total en el aire segun la temperatura
+'''
 def total_pressure(M1, M2, m1, m2, V, T):
     # Constante del gas ideal
     R = 0.082

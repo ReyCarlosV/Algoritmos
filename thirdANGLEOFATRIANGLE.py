@@ -1,3 +1,6 @@
+'''
+Encuentra el angulo faltante de un triangulo dados los otros dos angulos
+'''
 def third_angle(angle1, angle2):
     # Sumar los dos ángulos y restar de 180 para obtener el tercero
     return 180 - (angle1 + angle2)
