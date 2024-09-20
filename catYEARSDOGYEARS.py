@@ -33,4 +33,5 @@ def animal_ages(humanYears):
 
 # Ejemplo de uso
 print(animal_ages(3))  # Debería devolver [3, 28, 29]
+print(animal_ages(10))
 print(type(animal_ages(3)))
